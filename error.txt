@@ -1,0 +1,6 @@
+git add README.MD
+warning: in the working copy of 'custom_nodes/comfyui-crewai/README.MD', LF will be replaced by CRLF the next time Git touches it
+The following paths are ignored by one of your .gitignore files:
+custom_nodes
+hint: Use -f if you really want to add them.
+hint: Disable this message with "git config set advice.addIgnoredFile false"
